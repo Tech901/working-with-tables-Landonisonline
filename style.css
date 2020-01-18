@@ -1,0 +1,67 @@
+
+body {
+    /* background-color: rgb(5, 5, 78); */
+    background-image: url("https://res.cloudinary.com/dqcw8u5pf/image/upload/v1579383095/Venn_B_tl5mt1.jpg");
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family:"Arial";
+}
+
+p {
+    text-align: center;
+    color: white;
+    font-family:"Arial";
+}
+
+table {
+    margin: auto;
+    width: auto;
+    color:white;
+    font-size: xx-large;
+}
+
+.logo {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+
+.footerlogo {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+
+.break {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+
+
+.table {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+
+.home{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    color: #00ff15;
+}
+
+.away {
+    font-family: Arial, Helvetica, sans-serif;
+    text-emphasis: center;
+    font-weight: bold;
+    color: #00bfff;
+}
